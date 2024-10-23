@@ -31,7 +31,7 @@ namespace Luatrauma.AutoUpdater
             string patchUrl = null;
             if (OperatingSystem.IsWindows())
             {
-                patchUrl = "https://github.com/evilfactory/LuaCsForBarotrauma/releases/download/latest/luacsforbarotrauma_patch_windows_client.zip";
+                patchUrl = "https://github.com/HackCocaine/Luatrauma.AutoUpdater/releases/download/TEST/luacsforbarotrauma_patch_windows_client.zip";
             }
             else if (OperatingSystem.IsLinux())
             {
